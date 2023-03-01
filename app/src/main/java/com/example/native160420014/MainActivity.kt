@@ -7,5 +7,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        var nama:String = "Waria Maria"
+
+        nama = "ken";
     }
 }
